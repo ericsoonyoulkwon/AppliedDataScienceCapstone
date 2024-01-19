@@ -1,0 +1,41 @@
+https://onedrive.live.com/edit?id=7AA4FCA4A7FC88F5!980&resid=7AA4FCA4A7FC88F5!980&ithint=file%2cpptx&ct=1705631955954&wdOrigin=OFFICECOM-WEB.START.UPLOAD&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=ca22fb77-066b-4fcc-8bec-18eab76f9221&wdo=2&cid=7aa4fca4a7fc88f5
+
+cover page: title, authors, affiliations, contacts, name of the institutional publisher (if any), the date of publication
+table of contents, 
+executive summary (abstract)
+introduction,
+methodology,
+results
+discussion, finding and implication,
+conclusion,
+acknowledgments, 
+references, 
+and appendices
+
+Have you told readers, at the outset, what they might gain by reading your paper?
+Have you made the aim of your work clear?
+Have you explained the significance of your contribution?
+Have you set your work in the appropriate context by giving sufficient background (including a complete set of relevant references) to your work?
+Have you addressed the question of practicality and usefulness?
+Have you identified future developments that might result from your work?
+Have you structured your paper in a clear and logical fashion?
+
+Uploaded the URL of your GitHub repository including all the completed notebooks and Python files (1 pt)
+	https://github.com/ericsoonyoulkwon/AppliedDataScienceCapstone
+Uploaded your completed presentation in PDF format (1 pt)
+Completed the required Executive Summary slide (1 pt)
+done - Completed the required Introduction slide (1 pt)
+
+Completed the required data collection and data wrangling methodology related slides (1 pt)
+Completed the required EDA and interactive visual analytics methodology related slides (3 pts)
+Completed the required predictive analysis methodology related slides (1 pt)
+
+Completed the required EDA with visualization results slides (6 pts)
+Completed the required EDA with SQL results slides (10 pts)
+Completed the required interactive map with Folium results slides (3 pts)
+Completed the required Plotly Dash dashboard results slides (3 pts)
+Completed the required predictive analysis (classification) results slides (6 pts)
+
+Completed the required Conclusion slide (1 pts)
+Applied your creativity to improve the presentation beyond the template (1 pts)
+Displayed any innovative insights (1 pts)
